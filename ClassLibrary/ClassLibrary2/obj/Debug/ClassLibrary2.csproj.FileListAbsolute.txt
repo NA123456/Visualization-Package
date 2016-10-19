@@ -1,0 +1,32 @@
+c:\users\nada\documents\visual studio 2012\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+c:\users\nada\documents\visual studio 2012\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+c:\users\nada\documents\visual studio 2012\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\MeshLoader.dll
+c:\users\nada\documents\visual studio 2012\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\Tao.OpenGl.dll
+c:\users\nada\documents\visual studio 2012\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\MeshLoader.pdb
+c:\users\nada\documents\visual studio 2012\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\Tao.OpenGl.xml
+c:\users\nada\documents\visual studio 2012\Projects\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.csprojResolveAssemblyReference.cache
+c:\users\nada\documents\visual studio 2012\Projects\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.ValueColor.resources
+c:\users\nada\documents\visual studio 2012\Projects\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.GenerateResource.Cache
+c:\users\nada\documents\visual studio 2012\Projects\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+c:\users\nada\documents\visual studio 2012\Projects\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+E:\FCIS\4th\Visualization\Labs\Lab 3\visualization_task3\task1\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+E:\FCIS\4th\Visualization\Labs\Lab 3\visualization_task3\task1\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+E:\FCIS\4th\Visualization\Labs\Lab 3\visualization_task3\task1\ClassLibrary2\ClassLibrary2\bin\Debug\MeshLoader.dll
+E:\FCIS\4th\Visualization\Labs\Lab 3\visualization_task3\task1\ClassLibrary2\ClassLibrary2\bin\Debug\Tao.OpenGl.dll
+E:\FCIS\4th\Visualization\Labs\Lab 3\visualization_task3\task1\ClassLibrary2\ClassLibrary2\bin\Debug\MeshLoader.pdb
+E:\FCIS\4th\Visualization\Labs\Lab 3\visualization_task3\task1\ClassLibrary2\ClassLibrary2\bin\Debug\Tao.OpenGl.xml
+E:\FCIS\4th\Visualization\Labs\Lab 3\visualization_task3\task1\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.ValueColor.resources
+E:\FCIS\4th\Visualization\Labs\Lab 3\visualization_task3\task1\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.GenerateResource.Cache
+E:\FCIS\4th\Visualization\Labs\Lab 3\visualization_task3\task1\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+E:\FCIS\4th\Visualization\Labs\Lab 3\visualization_task3\task1\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+E:\FCIS\4th\Visualization\Visualization-Package\task6\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+E:\FCIS\4th\Visualization\Visualization-Package\task6\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+E:\FCIS\4th\Visualization\Visualization-Package\task6\ClassLibrary2\ClassLibrary2\bin\Debug\MeshLoader.dll
+E:\FCIS\4th\Visualization\Visualization-Package\task6\ClassLibrary2\ClassLibrary2\bin\Debug\Tao.OpenGl.dll
+E:\FCIS\4th\Visualization\Visualization-Package\task6\ClassLibrary2\ClassLibrary2\bin\Debug\MeshLoader.pdb
+E:\FCIS\4th\Visualization\Visualization-Package\task6\ClassLibrary2\ClassLibrary2\bin\Debug\Tao.OpenGl.xml
+E:\FCIS\4th\Visualization\Visualization-Package\task6\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.csprojResolveAssemblyReference.cache
+E:\FCIS\4th\Visualization\Visualization-Package\task6\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.ValueColor.resources
+E:\FCIS\4th\Visualization\Visualization-Package\task6\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.GenerateResource.Cache
+E:\FCIS\4th\Visualization\Visualization-Package\task6\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+E:\FCIS\4th\Visualization\Visualization-Package\task6\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
